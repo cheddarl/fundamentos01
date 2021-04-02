@@ -7,8 +7,8 @@ function OlaMundo() {
 
     return (
         <div>
-           <center> <h2> Componente OlaMundo </h2> 
-            <p> {informacao} </p> </center>
+            <h2> Componente OlaMundo </h2> 
+            <p> {informacao} </p>
         </div>
     )
 }
